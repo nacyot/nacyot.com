@@ -1,8 +1,0 @@
-{
-  "name": "nacyot.com",
-  "dependencies": {
-    "bootstrap": "~3",
-    "jquery": "*",
-    "font-awesome": "*"
-  }
-}
