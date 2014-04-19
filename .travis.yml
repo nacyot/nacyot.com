@@ -1,0 +1,25 @@
+language: ruby
+rvm:
+- 2.1.0
+env:
+  global:
+  - GIT_COMMITTER_NAME=nacyot
+  - GIT_COMMITTER_EMAIL=propellerheaven@gmail.com
+  - GIT_AUTHOR_NAME=nacyot
+  - GIT_AUTHOR_EMAIL=propellerheaven@gmail.com
+  - secure: WUwyJpvutX0OKzBEWqqCd5QpsaAlp1lBLJaekd5WMx2oSEDRfMcIlkgLkUTndyCtYYsKmVNCM79vdk/E9K2BMP1lA8y4ZkayQ3Py6XVZhP1KGZadwNBL1RmiXLvTzS2Nub9WJkaqQaala0zadGKh5cFqWP5OzLwk0bWpYxQLLDs=
+before_install:
+  - sudo apt-get install -qq libicu-dev
+before_script:
+  - npm install -g bower
+  - bower install
+  - git clone https://github.com/nacyot/nacyot.com.git build
+  - cd build
+  - git checkout gh-pages
+  - cd ..
+script: bundle exec middleman build --verbose
+after_success:
+  - cd build
+  - git add -A
+  - git commit -m 'Update build files'
+  - git push --quiet https://$GH_TOKEN@github.com/nacyot/nacyot.com.git gh-pages
