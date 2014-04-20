@@ -11,9 +11,6 @@
 * [slideshare.net/ext][profile_slideshare]
 * [speakerdeck.com/nacyot][profile_deck]
 * [codingdojo.kr/nacyot][profile_dojo]
-* [projecteuler.net/nacyot][profile_euler]
-* [algospot.com/nacyot][profile_algospot]
-* [stackoverflow.com/nacyot][profile_stack]
 
 [profile_blog]: http://blog.nacyot.com
 [profile_wiki]: http://wiki.nacyot.com
