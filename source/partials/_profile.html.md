@@ -1,8 +1,8 @@
 ## Profile
 
 * nacyot.com/ruby_programmer
-* [블로그 :: nacyot의 프로그래밍 이야기][profile_blog]
-* [nacyot 프로그래밍 위키][profile_wiki]
+* [Korean Blog :: nacyot의 프로그래밍 이야기][profile_blog]
+* [Personal Wikiwiki :: nacyot 프로그래밍 위키][profile_wiki]
 
 <br/>
 
