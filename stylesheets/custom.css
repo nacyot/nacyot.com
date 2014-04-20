@@ -1,0 +1,65 @@
+a{
+  color: #5B8930;
+}
+
+a:visited{
+  color: #534A32;
+}
+
+.row{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+article{
+  margin-bottom: 10em;
+}
+
+.nacyot{
+  margin-top: 25px;
+  margin-bottom: 65px;
+  text-align: right;
+}
+
+.nacyot h1{
+  margin: 5px 25px;
+  font-size: 1.2em;
+  display: inline;
+  vertical-align: bottom;
+}
+
+.profile h2{
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.profile h1, .profile h2{
+  margin-top: 2em;
+}
+
+.profile{
+  font-size: 1.2em;
+}
+
+.profile ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  padding-top: 0.3em;
+  padding-left: 1em;
+}
+
+.profile li{
+  margin: 0.3em 0em;
+  padding: 0em;
+}
+
+.profile table{
+  padding: 0;
+  margin: 0;
+  padding-left: 1em;
+}
+
+.profile table tr{
+  border-bottom: 1px solid gray;
+}
