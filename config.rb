@@ -50,6 +50,8 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 set :markdown_engine, :redcarpet
 
+sprockets.append_path File.join(File.expand_path(File.dirname(__FILE__)), 'vendor', 'javascript', 'components')
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
