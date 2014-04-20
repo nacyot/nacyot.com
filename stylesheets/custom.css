@@ -37,6 +37,10 @@ article{
   margin-top: 2em;
 }
 
+.profile h3{
+  margin-left: 0.25em;
+}
+
 .profile{
   font-size: 1.2em;
 }
