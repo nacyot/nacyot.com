@@ -48,7 +48,7 @@
 
 ## Presentations
 
-* [Immutable Infrastructure][presentation_ii] (Programmer, 2014-04-02)
+* [Immutable Infrastructure][presentation_ii] (Programer Seminar Day, 2014-04-02)
 * [Ruby Design Pattern ch3 Template Pattern][presentation_dp3] (Ruby Design Patten Study, 2014-01-06)
 * [Visualization and Data Mapping][presentation_vam] (Dev.Study, 2014-10-23)
 * [Movie Explorer Moplo!][presentation_moplo] (Daum Hannam Office, 2014-10-12)
