@@ -1,8 +1,11 @@
 ## Profile
 
 * nacyot.com/ruby_programmer
-* [블로그 :: nacyot의 프로그래밍 이야기][profile_blog] (Middleman, 2014-)
-* [nacyot 프로그래밍 위키][profile_wiki] (Middleman, 2014-)
+* [블로그 :: nacyot의 프로그래밍 이야기][profile_blog]
+* [nacyot 프로그래밍 위키][profile_wiki]
+
+<br/>
+
 * [github.com/nacyot][profile_github]
 * [twitter.com/@nacyo_t][profile_twitter]
 * [slideshare.net/ext][profile_slideshare]
@@ -63,22 +66,25 @@
 
 ### 2014
 
-* SocialShield (Leevi Inc., 2013~)
-* [Remotty Team Blog][site_remotty] (Team Remotty, 2014~)
-* [Dev.Study Archive][site_dev_study] (nacyot, 2014)
+* Shomney (Team Remotty, [ruby, rails, javascript, angularjs, docker], 2014~)
+* [Remotty Team Blog][site_remotty] (Team Remotty, [ruby, jekyll, github], 2014~)
+* [블로그 :: nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
+* [nacyot 프로그래밍 위키][profile_wiki] (nacyot, [ruby, middleman, github], 2014~)
+* SocialShield API (Leevi Inc., [ruby, rails, mysql, docker], 2013~)
+* [Dev.Study Archive][site_dev_study] (nacyot, [ruby, middleman, github], 2014)
 
 [site_dev_study]: http://dev-study.github.io/
 [site_remotty]: http://blog.remotty.com
 
 ### 2013
 
-* Movie Explorer Moplo(nacyot, 2013)
-* Putne (nacyot, 2013)
-* [공동가계부 Shomney Alpha][site_shomney] (Team Remotty, 2013)
+* Movie Explorer Moplo(nacyot, [ruby, rails, javascript, d3js, freebase, heroku], 2013)
+* Putne (nacyot, [ruby, rails, git, self-hosted code metrics, javascript, d3js], 2013)
+* [공동가계부 Shomney Alpha][site_shomney] (Team Remotty, [ruby, rails, javascript, angularjs], 2013)
 
 [site_shomney]: http://budgetbook.herokuapp.com/
 
 ### 2008
 
-* Mangaka Map 2008
+* Mangaka Map 2008(nacyot, [php, graphviz], 2008)
 
