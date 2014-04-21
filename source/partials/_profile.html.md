@@ -65,7 +65,7 @@
 
 * Shomney (Team Remotty, [ruby, rails, javascript, angularjs, docker], 2014~)
 * [Remotty Team Blog][site_remotty] (Team Remotty, [ruby, jekyll, github], 2014~)
-* [블로그 :: nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
+* [nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
 * [nacyot 프로그래밍 위키][profile_wiki] (nacyot, [ruby, middleman, github], 2014~)
 * [루비 프로그래밍 언어 한글 문서 링크집][site_ruby_korean] (ruby-korea, [jekyll], 2014~)
 * SocialShield API (Leevi Inc., [ruby, rails, mysql, docker], 2013~)
