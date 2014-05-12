@@ -1,8 +1,11 @@
 ## <i class='fa-user fa icon'></i>Profile
 
 * nacyot.com/ruby_programmer
+* [Leevi][leevi] Programmer
 * [Korean Blog :: nacyot의 프로그래밍 이야기][profile_blog]
 * [Personal Wikiwiki :: nacyot 프로그래밍 위키][profile_wiki]
+
+[leevi]: http://leevi.co.kr
 
 <br/>
 
@@ -91,6 +94,9 @@
 
 ### 2014
 
+* [Bitmetrics][site_bitmetrics] (Belaunch Hackathon B Team, [ruby, rails, influxdb, javascript, highchart], 2014-05)
+  * [Belaunch Hackathon 2014][compitition_belaunch_2014] Korbit Winner
+  * B Team = Leevi Inc. 3 members + another 3 members
 * [Shomney][site_shomney] (Team Remotty, [ruby, rails, javascript, angularjs, docker], 2014~)
 * [Remotty Team Blog][site_remotty] (Team Remotty, [ruby, jekyll, github], 2014~)
 * [nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
@@ -99,18 +105,27 @@
 * SocialShield API (Leevi Inc., [ruby, rails, mysql, docker], 2014~)
 * [Dev.Study Archive][site_dev_study] (nacyot, [ruby, middleman, github], 2014)
 
+[site_bitmetrics]: http://bitmetrics.kr/
 [site_dev_study]: http://dev-study.github.io/
-[site_remotty]: http://blog.remotty.com
+[site_remotty]: http://blog.remotty.com/
 [site_ruby_korean]: http://ruby-korea.github.io/
-[site_shomney]: http://shomney.com
+[site_shomney]: http://shomney.com/
+[compitition_belaunch_2014]: http://onoffmix.com/event/23689
 
 ### 2013
 
-* Movie Explorer Moplo(nacyot, [ruby, rails, javascript, d3js, freebase, heroku], 2013)
-* Putne (nacyot, [ruby, rails, git, self-hosted code metrics, javascript, d3js], 2013)
 * [공동가계부 Shomney Alpha][site_shomney_alpha] (Team Remotty, [ruby, rails, javascript, angularjs], 2013)
+  * [SK텔레콤 모바일 웹앱 공모전][competition_skt_2013] 우수상 수상
+* Movie Explorer Moplo(nacyot, [ruby, rails, javascript, d3js, freebase, heroku], 2013)
+  * [Mashup Camp 2013][competition_mashup_2013] 참가, [Presentation][presentation_moplo]
+* Putne (nacyot, [ruby, rails, git, self-hosted code metrics, javascript, d3js], 2013)
+  * [Naver D2fest 2013][competition_d2fest_2013] 일반부 결승 참가, [Presentation][presentation_putne]
+
 
 [site_shomney_alpha]: http://budgetbook.herokuapp.com/
+[competition_mashup_2013]: http://mashupkorea.org/2013/
+[competition_d2fest_2013]: http://d2fest.kr/2013/
+[competition_skt_2013]: http://cornerstone.sktelecom.com/event/
 
 ### 2008
 
