@@ -37,12 +37,17 @@
 
 * 레일즈 튜토리얼 [#1][t_rails_tutorial_ch1] (work in progress, [github][t_rails_tutorial_g], [Rails Tutorial][t_rails_tutorial_o])
 * Middleman 공식 문서 (work in progress, [github][t_middleman_g], [Middleman Document][t_middleman_o])
+* [The Twelve Factor App(한국어)][t_twelve] (2014-05, [github][t_twelve_g], [The Twelve Factor App][t_twelve_o])
 * [이맥스 패키지 관리 툴 캐스크(Cask) 공식 문서][t_cask] (2014-04, [github][t_cask_g], [Cask Document][t_cask_o])
 * [쿡패드 루비 스타일 가이드][t_cookpad_ruby] (2014-03-23, [github][t_cookpad_ruby_g], [Ruby コーディング規準][t_cookpad_ruby_o])
 * [sexy.emacs.kr][t_emacs_sexy] (2014-03-16, [github][t_emacs_sexy_g], [emacs.sexy][t_emacs_sexy_o])
 * [Docker 치트시트][t_docker_cheat] (2014-01-30, [Docker Cheatsheet][t_docker_cheat_o])
 * [알아두면 도움이 되는 55가지 루비 기법][t_ruby_trivia] (2013-11-24, [知って得する！５５のRubyのトリビアな記法][t_ruby_trivia_o])
 * [AngularJs 스타일 가이드][t_angular_style] (2013-10-31, [github][t_angular_style_g], [AngularJS Style Guide][t_angular_style_o])
+
+[t_twelve]: http://the-twelve-factor-app.herokuapp.com/
+[t_twelve_g]: https://github.com/nacyot/12factor
+[t_twelve_o]: http://12factor.net/
 
 [t_rails_tutorial_ch1]: http://nacyot.github.io/Rails-Tutorial-KR/chapters/beginning.html
 [t_rails_tutorial_g]: http://
@@ -76,6 +81,7 @@
 
 ## Presentations
 
+* [Docker Introduction][presentation_docker] (RORLAB, 2014-05-13)
 * [Immutable Infrastructure][presentation_ii] (Programer Seminar Day, 2014-04-02)
 * [Ruby Design Pattern ch3 Template Pattern][presentation_dp3] (Ruby Design Patten Study, 2014-01-06)
 * [Visualization and Data Mapping][presentation_vam] (Dev.Study, 2013-10-23)
@@ -83,6 +89,7 @@
 * [Self-hosted Ruby Code Metrics Admin Putne][presentation_putne] (Naver D2fest final, 2013-09-21)
 * [Ruby for biginner - Don't be suprised][presentation_ruby] (Dev.Study 2013-08)
 
+[presentation_docker]: http://blog.nacyot.com/presentations/docker_introduction/
 [presentation_ii]: http://www.slideshare.net/ext/immutable-infrastructure123123123
 [presentation_dp3]: http://www.slideshare.net/ext/design-pattern-chapter3templatepattern
 [presentation_vam]: http://www.slideshare.net/ext/visualization-and-data-mapping
@@ -121,13 +128,19 @@
 * Putne (nacyot, [ruby, rails, git, self-hosted code metrics, javascript, d3js], 2013)
   * [Naver D2fest 2013][competition_d2fest_2013] 일반부 결승 참가, [Presentation][presentation_putne]
 
-
 [site_shomney_alpha]: http://budgetbook.herokuapp.com/
 [competition_mashup_2013]: http://mashupkorea.org/2013/
 [competition_d2fest_2013]: http://d2fest.kr/2013/
 [competition_skt_2013]: http://cornerstone.sktelecom.com/event/
 
+### 2012
+
+### 2010
+
+### 2009
+
 ### 2008
 
 * Mangaka Map 2008(nacyot, [php, graphviz], 2008)
 
+### 2007
