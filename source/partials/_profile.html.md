@@ -17,7 +17,7 @@
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
 * [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/nacyot][profile_deck]
-* [<i class='fa-external-link-square fa icon'></i>docewars.com/nacyot][profile_codewars]
+* [<i class='fa-external-link-square fa icon'></i>codewars.com/nacyot][profile_codewars]
 * [<i class='fa-external-link-square fa icon'></i>algospot.com/nacyot][profile_algospot]
 * [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo]
 * [<i class='fa-external-link-square fa icon'></i>ask.fm/nacyot][profile_ask]
@@ -33,7 +33,7 @@
 [profile_stack]: http://stackoverflow.com/users/2689714/nacyot
 [profile_bitbucket]: https://bitbucket.org/nacyot
 [profile_dojo]: http://codingdojo.kr/profile/answer/1624
-[profile_docewars]: http://www.codewars.com/users/nacyot
+[profile_codewars]: http://www.codewars.com/users/nacyot
 [profile_algospot]: http://algospot.com/user/profile/7208
 [profile_euler]: https://projecteuler.net/progress=nacyot
 [profile_ask]: http://ask.fm/nacyot
