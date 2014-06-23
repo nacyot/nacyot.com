@@ -14,11 +14,15 @@
 * [<i class='fa-twitter fa icon'></i>twitter.com/@nacyo_t][profile_twitter]
 * [<i class='fa-facebook-square fa icon'></i>facebook.com/KimDaeKwon][profile_facebook]
 * [<i class='fa-stack-overflow fa icon'></i>stackoverflow.com/nacyot][profile_stack]
+* [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
 * [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/nacyot][profile_deck]
+* [<i class='fa-external-link-square fa icon'></i>docewars.com/nacyot][profile_codewars]
+* [<i class='fa-external-link-square fa icon'></i>algospot.com/nacyot][profile_algospot]
 * [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo]
 * [<i class='fa-external-link-square fa icon'></i>ask.fm/nacyot][profile_ask]
 
+[profile_docker]: https://hub.docker.com/u/nacyot/
 [profile_blog]: http://blog.nacyot.com
 [profile_wiki]: http://wiki.nacyot.com
 [profile_github]: http://github.com/nacyot
@@ -29,6 +33,7 @@
 [profile_stack]: http://stackoverflow.com/users/2689714/nacyot
 [profile_bitbucket]: https://bitbucket.org/nacyot
 [profile_dojo]: http://codingdojo.kr/profile/answer/1624
+[profile_docewars]: http://www.codewars.com/users/nacyot
 [profile_algospot]: http://algospot.com/user/profile/7208
 [profile_euler]: https://projecteuler.net/progress=nacyot
 [profile_ask]: http://ask.fm/nacyot
@@ -81,6 +86,7 @@
 
 ## Presentations
 
+* [Ruby on Rails Deployment with Docker][presentation_docker_2] (RORLAB, 2014-06-10)
 * [Docker Introduction][presentation_docker] (RORLAB, 2014-05-13)
 * [Immutable Infrastructure][presentation_ii] (Programer Seminar Day, 2014-04-02)
 * [Ruby Design Pattern ch3 Template Pattern][presentation_dp3] (Ruby Design Patten Study, 2014-01-06)
@@ -89,6 +95,7 @@
 * [Self-hosted Ruby Code Metrics Admin Putne][presentation_putne] (Naver D2fest final, 2013-09-21)
 * [Ruby for biginner - Don't be suprised][presentation_ruby] (Dev.Study 2013-08)
 
+[presentation_docker_2]: https://www.facebook.com/naverd2/posts/505653179563380
 [presentation_docker]: http://blog.nacyot.com/presentations/docker_introduction/
 [presentation_ii]: http://www.slideshare.net/ext/immutable-infrastructure123123123
 [presentation_dp3]: http://www.slideshare.net/ext/design-pattern-chapter3templatepattern
