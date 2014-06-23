@@ -2,8 +2,8 @@
 
 * nacyot.com/ruby_programmer
 * [Leevi][leevi] Programmer
-* [Korean Blog :: nacyot의 프로그래밍 이야기][profile_blog]
-* [Personal Wikiwiki :: nacyot 프로그래밍 위키][profile_wiki]
+* [Korean Blog :: 프로그래밍 이야기][profile_blog]
+* [Wikiwiki :: nacyot wiki][profile_wiki]
 
 [leevi]: http://leevi.co.kr
 
