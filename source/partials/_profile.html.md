@@ -16,11 +16,6 @@
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
 * [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/nacyot][profile_deck]
-<!-- * [<i class='fa-stack-overflow fa icon'></i>stackoverflow.com/nacyot][profile_stack] -->
-<!-- * [<i class='fa-external-link-square fa icon'></i>codewars.com/nacyot][profile_codewars] -->
-<!-- * [<i class='fa-external-link-square fa icon'></i>algospot.com/nacyot][profile_algospot] -->
-<!-- * [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo] -->
-<!-- * [<i class='fa-external-link-square fa icon'></i>ask.fm/nacyot][profile_ask] -->
 
 [profile_docker]: https://hub.docker.com/u/nacyot/
 [profile_blog]: http://blog.nacyot.com
@@ -89,9 +84,9 @@
 <!-- * Docker (Deview, 2014-09-30) -->
 * [Command Line Tips & Tricks][presentation_cli] (RORLAB, 2014-07-23)
 * [Colleting Docker Container Logs and Metrics][presentation_docker] (Remmoty Docker Study, 2014-07-19)
-* ~~[Translation Memory - Google Translator Toolkit][presentation_gtt] (Rail Tutorial Translation Team, 2014-07-16)~~
+* <del>[Translation Memory - Google Translator Toolkit][presentation_gtt] (Rail Tutorial Translation Team, 2014-07-16)</del>
 * [Ruby on Rails Deployment with Docker][presentation_docker_2] (RORLAB, 2014-06-10)
-* ~~[Docker as a Useful Tool][presentation_docker_3] (OctoberSkyJs, 2004-05-31)~~
+* <del>[Docker as a Useful Tool][presentation_docker_3] (OctoberSkyJs, 2004-05-31)</del>
 * [Docker Introduction][presentation_docker] (RORLAB, 2014-05-13)
 * [Immutable Infrastructure][presentation_ii] (Programer Seminar Day, 2014-04-02)
 * [Ruby Design Pattern ch3 Template Pattern][presentation_dp3] (Ruby Design Patten Study, 2014-01-06)
