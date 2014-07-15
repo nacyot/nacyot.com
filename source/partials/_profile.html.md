@@ -13,14 +13,14 @@
 * [<i class='fa-bitbucket fa icon'></i>bitbucket.com/nacyot][profile_bitbucket]
 * [<i class='fa-twitter fa icon'></i>twitter.com/@nacyo_t][profile_twitter]
 * [<i class='fa-facebook-square fa icon'></i>facebook.com/KimDaeKwon][profile_facebook]
-* [<i class='fa-stack-overflow fa icon'></i>stackoverflow.com/nacyot][profile_stack]
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
 * [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/nacyot][profile_deck]
-* [<i class='fa-external-link-square fa icon'></i>codewars.com/nacyot][profile_codewars]
-* [<i class='fa-external-link-square fa icon'></i>algospot.com/nacyot][profile_algospot]
-* [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo]
-* [<i class='fa-external-link-square fa icon'></i>ask.fm/nacyot][profile_ask]
+<!-- * [<i class='fa-stack-overflow fa icon'></i>stackoverflow.com/nacyot][profile_stack] -->
+<!-- * [<i class='fa-external-link-square fa icon'></i>codewars.com/nacyot][profile_codewars] -->
+<!-- * [<i class='fa-external-link-square fa icon'></i>algospot.com/nacyot][profile_algospot] -->
+<!-- * [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo] -->
+<!-- * [<i class='fa-external-link-square fa icon'></i>ask.fm/nacyot][profile_ask] -->
 
 [profile_docker]: https://hub.docker.com/u/nacyot/
 [profile_blog]: http://blog.nacyot.com
@@ -86,7 +86,12 @@
 
 ## Presentations
 
+<!-- * Docker (Deview, 2014-09-30) -->
+* [Command Line Tips & Tricks][presentation_cli] (RORLAB, 2014-07-23)
+* [Colleting Docker Container Logs and Metrics][presentation_docker] (Remmoty Docker Study, 2014-07-19)
+* ~~[Translation Memory - Google Translator Toolkit][presentation_gtt] (Rail Tutorial Translation Team, 2014-07-16)~~
 * [Ruby on Rails Deployment with Docker][presentation_docker_2] (RORLAB, 2014-06-10)
+* ~~[Docker as a Useful Tool][presentation_docker_3] (OctoberSkyJs, 2004-05-31)~~
 * [Docker Introduction][presentation_docker] (RORLAB, 2014-05-13)
 * [Immutable Infrastructure][presentation_ii] (Programer Seminar Day, 2014-04-02)
 * [Ruby Design Pattern ch3 Template Pattern][presentation_dp3] (Ruby Design Patten Study, 2014-01-06)
@@ -95,6 +100,9 @@
 * [Self-hosted Ruby Code Metrics Admin Putne][presentation_putne] (Naver D2fest final, 2013-09-21)
 * [Ruby for biginner - Don't be suprised][presentation_ruby] (Dev.Study 2013-08)
 
+[presentation_cli]: http://
+[presentation_gtt]: http://
+[presentation_docker_3]: http://
 [presentation_docker_2]: https://www.facebook.com/naverd2/posts/505653179563380
 [presentation_docker]: http://blog.nacyot.com/presentations/docker_introduction/
 [presentation_ii]: http://www.slideshare.net/ext/immutable-infrastructure123123123
@@ -108,6 +116,7 @@
 
 ### 2014
 
+* Lenz (Leevi Inc., [ruby, mysql, cassandra], 2014~)
 * [Bitmetrics][site_bitmetrics] (Belaunch Hackathon B Team, [ruby, rails, influxdb, javascript, highchart], 2014-05)
   * [Belaunch Hackathon 2014][compitition_belaunch_2014] Korbit Winner
   * B Team = Leevi Inc. 3 members + another 3 members
