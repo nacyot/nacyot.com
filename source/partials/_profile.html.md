@@ -1,9 +1,9 @@
 ## <i class='fa-user fa icon'></i>Profile
 
 * nacyot.com/ruby_programmer
-* [Leevi][leevi] Programmer
-* [Korean Blog :: 프로그래밍 이야기][profile_blog]
-* [Wikiwiki :: nacyot wiki][profile_wiki]
+* [Leevi][leevi Inc.] Programmer
+* [Blog - nacyot의 프로그래밍 이야기][profile_blog]
+* [Wiki - nacyot wiki][profile_wiki]
 
 [leevi]: http://leevi.co.kr
 
@@ -11,6 +11,7 @@
 
 * [<i class='fa-github fa icon'></i>github.com/nacyot][profile_github]
 * [<i class='fa-bitbucket fa icon'></i>bitbucket.com/nacyot][profile_bitbucket]
+* [<i class='fa-stack-exchange fa icon'></i>twitter.com/@nacyo_t][profile_stack]
 * [<i class='fa-twitter fa icon'></i>twitter.com/@nacyo_t][profile_twitter]
 * [<i class='fa-facebook-square fa icon'></i>facebook.com/KimDaeKwon][profile_facebook]
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
@@ -81,12 +82,18 @@
 
 ## Presentations
 
-<!-- * Docker (Deview, 2014-09-30) -->
-* [Command Line Tips & Tricks][presentation_cli] (RORLAB, 2014-07-23)
-* [Colleting Docker Container Logs and Metrics][presentation_docker] (Remmoty Docker Study, 2014-07-19)
-* <del>[Translation Memory - Google Translator Toolkit][presentation_gtt] (Rail Tutorial Translation Team, 2014-07-16)</del>
+### Plan
+
+* <del>'Docker가 바꿔놓을 어플리케이션 배포와 서버 운영의 미래상 (Deview, 2014-09-30)</del>
+
+### Slide
+
+* [Colleting Docker Container Logs and Metrics][presentation_docker_metrics] (Docker Korea 2nd Meetup, 2014-08-02)
+* [Command Line Tips & Tricks - zsh, tmux, peco][presentation_cli] (RORLAB, 2014-07-23)
+* [Immutable Infrastructure][presentation_ii] (Docker Korea 1st Meetup, 2014-07-19)
+* [Translation Memory - Google Translator Toolkit][presentation_gtt] (Rail Tutorial Translation Team, 2014-07-16)
 * [Ruby on Rails Deployment with Docker][presentation_docker_2] (RORLAB, 2014-06-10)
-* <del>[Docker as a Useful Tool][presentation_docker_3] (OctoberSkyJs, 2004-05-31)</del>
+* Docker as a Useful Tool (OctoberSkyJs, 2004-05-31)
 * [Docker Introduction][presentation_docker] (RORLAB, 2014-05-13)
 * [Immutable Infrastructure][presentation_ii] (Programer Seminar Day, 2014-04-02)
 * [Ruby Design Pattern ch3 Template Pattern][presentation_dp3] (Ruby Design Patten Study, 2014-01-06)
@@ -95,9 +102,9 @@
 * [Self-hosted Ruby Code Metrics Admin Putne][presentation_putne] (Naver D2fest final, 2013-09-21)
 * [Ruby for biginner - Don't be suprised][presentation_ruby] (Dev.Study 2013-08)
 
-[presentation_cli]: http://
-[presentation_gtt]: http://
-[presentation_docker_3]: http://
+[presentation_docker_metrics]: http://www.slideshare.net/ext/docker-37592250
+[presentation_cli]: http://www.slideshare.net/ext/2014-command-linetools
+[presentation_gtt]: http://www.slideshare.net/ext/translation-memory-37027025
 [presentation_docker_2]: https://www.facebook.com/naverd2/posts/505653179563380
 [presentation_docker]: http://blog.nacyot.com/presentations/docker_introduction/
 [presentation_ii]: http://www.slideshare.net/ext/immutable-infrastructure123123123
@@ -111,7 +118,7 @@
 
 ### 2014
 
-* Lenz (Leevi Inc., [ruby, mysql, cassandra], 2014~)
+* Lenz (Leevi Inc., [ruby, rails, angularjs, mysql, cassandra], 2014~)
 * [Bitmetrics][site_bitmetrics] (Belaunch Hackathon B Team, [ruby, rails, influxdb, javascript, highchart], 2014-05)
   * [Belaunch Hackathon 2014][compitition_belaunch_2014] Korbit Winner
   * B Team = Leevi Inc. 3 members + another 3 members
