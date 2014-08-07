@@ -1,7 +1,7 @@
 ## <i class='fa-user fa icon'></i>Profile
 
 * nacyot.com/ruby_programmer
-* [Leevi][leevi Inc.] Programmer
+* [Leevi Inc.][leevi] Programmer
 * [Blog - nacyot의 프로그래밍 이야기][profile_blog]
 * [Wiki - nacyot wiki][profile_wiki]
 
@@ -10,10 +10,10 @@
 <br/>
 
 * [<i class='fa-github fa icon'></i>github.com/nacyot][profile_github]
-* [<i class='fa-bitbucket fa icon'></i>bitbucket.com/nacyot][profile_bitbucket]
-* [<i class='fa-stack-exchange fa icon'></i>twitter.com/@nacyo_t][profile_stack]
 * [<i class='fa-twitter fa icon'></i>twitter.com/@nacyo_t][profile_twitter]
 * [<i class='fa-facebook-square fa icon'></i>facebook.com/KimDaeKwon][profile_facebook]
+* [<i class='fa-bitbucket fa icon'></i>bitbucket.com/nacyot][profile_bitbucket]
+* [<i class='fa-stack-exchange fa icon'></i>http://stackoverflow.com/nacyot][profile_stack]
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
 * [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/nacyot][profile_deck]
