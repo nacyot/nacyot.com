@@ -1,7 +1,18 @@
 ## <i class='fa-user fa icon'></i>Profile
 
 * nacyot.com/ruby_programmer
+
 * [Leevi Inc.][leevi] Programmer
+* A memeber of [Remotty][remotty]
+* Administrator of [Docker Korea][docker_korea]
+* Co-organizer of [Docker-Seoul][docker_seoul] meetup
+
+[docker_seoul]: http://www.meetup.com/Docker-Seoul/
+[docker_korea]: http://forum.docker.co.kr/
+[remotty]: http://blog.remotty.com/about/
+
+<br/>
+
 * [Blog - nacyot의 프로그래밍 이야기][profile_blog]
 * [Wiki - nacyot wiki][profile_wiki]
 
@@ -17,6 +28,7 @@
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
 * [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/nacyot][profile_deck]
+* [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo]
 
 [profile_docker]: https://hub.docker.com/u/nacyot/
 [profile_blog]: http://blog.nacyot.com
@@ -84,13 +96,14 @@
 
 ### Plan
 
-* <del>'Docker가 바꿔놓을 어플리케이션 배포와 서버 운영의 미래상 (Deview, 2014-09-30)</del>
+* <del>Docker가 바꿔놓을 어플리케이션 배포와 서버 운영의 미래상 (Deview, 2014-09-30)</del>
+* <del>Dynamic Cofiguration with Confd and etcd(Docker Seoul 1st Meetup, 2014-8-23)</del>
 
 ### Slide
 
-* [Colleting Docker Container Logs and Metrics][presentation_docker_metrics] (Docker Korea 2nd Meetup, 2014-08-02)
+* [Colleting Docker Container Logs and Metrics][presentation_docker_metrics] (Docker Korea 2nd Study, 2014-08-02)
 * [Command Line Tips & Tricks - zsh, tmux, peco][presentation_cli] (RORLAB, 2014-07-23)
-* [Immutable Infrastructure][presentation_ii] (Docker Korea 1st Meetup, 2014-07-19)
+* [Immutable Infrastructure][presentation_ii] (Docker Korea 1st Study, 2014-07-19)
 * [Translation Memory - Google Translator Toolkit][presentation_gtt] (Rail Tutorial Translation Team, 2014-07-16)
 * [Ruby on Rails Deployment with Docker][presentation_docker_2] (RORLAB, 2014-06-10)
 * Docker as a Useful Tool (OctoberSkyJs, 2004-05-31)
@@ -118,16 +131,15 @@
 
 ### 2014
 
-* Lenz (Leevi Inc., [ruby, rails, angularjs, mysql, cassandra], 2014~)
+* Lenz (Leevi Inc., [ruby, rails, angularjs, mysql, cassandra, circleci, github, docker], 2014~)
 * [Bitmetrics][site_bitmetrics] (Belaunch Hackathon B Team, [ruby, rails, influxdb, javascript, highchart], 2014-05)
   * [Belaunch Hackathon 2014][compitition_belaunch_2014] Korbit Winner
-  * B Team = Leevi Inc. 3 members + another 3 members
 * [Shomney][site_shomney] (Team Remotty, [ruby, rails, javascript, angularjs, docker], 2014~)
 * [Remotty Team Blog][site_remotty] (Team Remotty, [ruby, jekyll, github], 2014~)
 * [nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
 * [nacyot 프로그래밍 위키][profile_wiki] (nacyot, [ruby, middleman, github], 2014~)
 * [루비 프로그래밍 언어 한글 문서 링크집][site_ruby_korean] (ruby-korea, [jekyll], 2014~)
-* SocialShield API (Leevi Inc., [ruby, rails, mysql, docker], 2014~)
+* SocialShield API (Leevi Inc., [ruby, rails, mysql, docker, dokku], 2014~)
 * [Dev.Study Archive][site_dev_study] (nacyot, [ruby, middleman, github], 2014)
 
 [site_bitmetrics]: http://bitmetrics.kr/
@@ -139,7 +151,7 @@
 
 ### 2013
 
-* [공동가계부 Shomney Alpha][site_shomney_alpha] (Team Remotty, [ruby, rails, javascript, angularjs], 2013)
+* [공동가계부 Shomney Alpha][site_shomney_alpha] (Team Remotty, [ruby, rails, javascript, angularjs, mysql], 2013)
   * [SK텔레콤 모바일 웹앱 공모전][competition_skt_2013] 우수상 수상
 * Movie Explorer Moplo(nacyot, [ruby, rails, javascript, d3js, freebase, heroku], 2013)
   * [Mashup Camp 2013][competition_mashup_2013] 참가, [Presentation][presentation_moplo]
