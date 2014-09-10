@@ -46,7 +46,7 @@
 [profile_euler]: https://projecteuler.net/progress=nacyot
 [profile_ask]: http://ask.fm/nacyot
 
-<a name="translations"/>
+<a name="translations"></a>
 ## Translations
 
 * 레일즈 튜토리얼 [#1][t_rails_tutorial_ch1] (work in progress, [github][t_rails_tutorial_g], [Rails Tutorial][t_rails_tutorial_o])
@@ -93,7 +93,7 @@
 [t_middleman_g]: http://
 [t_middleman_o]: http://
 
-<a name="presentations"/>
+<a name="presentations"></a>
 ## Presentations
 
 ### Plan
@@ -129,7 +129,7 @@
 [presentation_putne]: http://www.slideshare.net/ext/putne
 [presentation_ruby]: http://www.slideshare.net/ext/ruby-27081169
 
-<a name="projects">
+<a name="projects"></a>
 ## Projects
 
 ### 2014
