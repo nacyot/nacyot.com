@@ -27,7 +27,7 @@
 * [<i class='fa-stack-exchange fa icon'></i>http://stackoverflow.com/nacyot][profile_stack]
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
-* [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/nacyot][profile_deck]
+* [<i class='fa-external-link-square fa icon'></i>codewar.com/nacyot][profile_codewar]
 * [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo]
 
 [profile_docker]: https://hub.docker.com/u/nacyot/
@@ -45,6 +45,10 @@
 [profile_algospot]: http://algospot.com/user/profile/7208
 [profile_euler]: https://projecteuler.net/progress=nacyot
 [profile_ask]: http://ask.fm/nacyot
+[profile_codewar]: http://www.codewars.com/users/nacyot
+
+<a name="publications"></a>
+## Publications
 
 <a name="translations"></a>
 ## Translations
@@ -93,16 +97,27 @@
 [t_middleman_g]: http://
 [t_middleman_o]: http://
 
+<a name="sites"></a>
+## Static Sites
+
+* [nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
+* [nacyot 프로그래밍 위키][profile_wiki] (nacyot, [ruby, middleman, github], 2014~)
+* [Remotty Team Blog][site_remotty] (Team Remotty, [ruby, jekyll, github], 2014~) -> Ghost로 이전
+* [Dev.Study Archive][site_dev_study] (nacyot, [ruby, middleman, github], 2014)
+* [Docker 한글 문서 / 영상 링크집][site_docker_korean] (DockerKorea, [github], 2014~)
+* [루비 프로그래밍 언어 한글 문서 링크집][site_ruby_korean] (ruby-korea, [jekyll], 2014~)
+
+[site_docker_korean]: https://github.com/DockerKorea/documents.docker.co.kr
+[site_dev_study]: http://dev-study.github.io/
+[site_remotty]: http://blog.remotty.com/
+[site_ruby_korean]: http://ruby-korea.github.io/
+
 <a name="presentations"></a>
 ## Presentations
 
-### Plan
-
-* <del>Docker가 바꿔놓을 어플리케이션 배포와 서버 운영의 미래상 (Deview, 2014-09-30)</del>
-* <del>Dynamic Cofiguration with Confd and etcd(Docker Seoul 1st Meetup, 2014-8-23)</del>
-
-### Slide
-
+* [Docker로 보는 서버 운영의 미래][presentation_deview] (Deview 2014, 2014-09-30)
+* [컨테이너에서 호스트 메트릭스 수집하기][presentation_meetup_2] (Docker Seoul 2nd Meetup, 2014-09-27)
+* [Dokcer History & Ecosystem][presentation_meetup_1] (Docker Seoul 1st Meetup, 2014-08-23)
 * [Colleting Docker Container Logs and Metrics][presentation_docker_metrics] (Docker Korea 2nd Study, 2014-08-02)
 * [Command Line Tips & Tricks - zsh, tmux, peco][presentation_cli] (RORLAB, 2014-07-23)
 * [Immutable Infrastructure][presentation_ii] (Docker Korea 1st Study, 2014-07-19)
@@ -117,6 +132,9 @@
 * [Self-hosted Ruby Code Metrics Admin Putne][presentation_putne] (Naver D2fest final, 2013-09-21)
 * [Ruby for biginner - Don't be suprised][presentation_ruby] (Dev.Study 2013-08)
 
+[presentation_deview]: https://www.slideshare.net/deview/1a6docker
+[presentation_meetup_2]: http://blog.nacyot.com/presentations/docker_first_meetup/
+[presentation_meetup_1]: http://blog.nacyot.com/presentations/docker_first_meetup/
 [presentation_docker_metrics]: http://www.slideshare.net/ext/docker-37592250
 [presentation_cli]: http://www.slideshare.net/ext/2014-command-linetools
 [presentation_gtt]: http://www.slideshare.net/ext/translation-memory-37027025
@@ -138,17 +156,9 @@
 * [Bitmetrics][site_bitmetrics] (Belaunch Hackathon B Team, [ruby, rails, influxdb, javascript, highchart], 2014-05)
   * [Belaunch Hackathon 2014][compitition_belaunch_2014] Korbit Winner
 * [Shomney][site_shomney] (Team Remotty, [ruby, rails, javascript, angularjs, docker], 2014~)
-* [Remotty Team Blog][site_remotty] (Team Remotty, [ruby, jekyll, github], 2014~)
-* [nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
-* [nacyot 프로그래밍 위키][profile_wiki] (nacyot, [ruby, middleman, github], 2014~)
-* [루비 프로그래밍 언어 한글 문서 링크집][site_ruby_korean] (ruby-korea, [jekyll], 2014~)
 * SocialShield API (Leevi Inc., [ruby, rails, mysql, docker, dokku], 2014~)
-* [Dev.Study Archive][site_dev_study] (nacyot, [ruby, middleman, github], 2014)
 
 [site_bitmetrics]: http://bitmetrics.kr/
-[site_dev_study]: http://dev-study.github.io/
-[site_remotty]: http://blog.remotty.com/
-[site_ruby_korean]: http://ruby-korea.github.io/
 [site_shomney]: http://shomney.com/
 [compitition_belaunch_2014]: http://onoffmix.com/event/23689
 
@@ -177,3 +187,15 @@
 * Mangaka Map 2008(nacyot, [php, graphviz], 2008)
 
 ### 2007
+
+## Articles
+
+* [네이버 Deview 2014 - 데뷰에서의 도커 (2014. 10. 01.)][imaso]
+* [ZDNET Korea - 네이버 개발자 컨퍼런스 1분만에 매진 (2014.09.17.)][zdnet]
+* [Platum - 좋은 기업이 될 수 있는 좋은 팀을 발굴하라! 비론치X해커톤 성황리 개최 (2014.05.12.)][platum]
+* [한겨레 21 - 위키위키로 업그레이드해볼까 (2007.08.09)][han]
+
+[imaso]: http://news.imaso.co.kr/123331
+[zdnet]: http://www.zdnet.co.kr/news/news_view.asp?artice_id=20140917110538
+[platum]: http://platum.kr/archives/20733
+[han]: http://legacy.h21.hani.co.kr/section-021003000/2007/08/021003000200708090672056.html
