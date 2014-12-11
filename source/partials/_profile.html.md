@@ -2,11 +2,13 @@
 
 * nacyot.com/ruby_programmer
 
-* [Leevi Inc.][leevi] Programmer
+* [SMARTSTUDY][smartstudy] Programmer
 * A memeber of [Remotty][remotty]
 * Administrator of [Docker Korea][docker_korea]
 * Co-organizer of [Docker-Seoul][docker_seoul] meetup
 
+[smartstudy]: http://www.smartstudy.com/
+[leevi]: http://leevi.co.kr
 [docker_seoul]: http://www.meetup.com/Docker-Seoul/
 [docker_korea]: http://forum.docker.co.kr/
 [remotty]: http://blog.remotty.com/about/
@@ -16,20 +18,21 @@
 * [Blog - nacyot의 프로그래밍 이야기][profile_blog]
 * [Wiki - nacyot wiki][profile_wiki]
 
-[leevi]: http://leevi.co.kr
-
 <br/>
 
 * [<i class='fa-github fa icon'></i>github.com/nacyot][profile_github]
 * [<i class='fa-twitter fa icon'></i>twitter.com/@nacyo_t][profile_twitter]
 * [<i class='fa-facebook-square fa icon'></i>facebook.com/KimDaeKwon][profile_facebook]
+* [<i class='fa-linkedin fa icon'></i>linkedin.com/nacyot][profile_linkedin]
 * [<i class='fa-bitbucket fa icon'></i>bitbucket.com/nacyot][profile_bitbucket]
 * [<i class='fa-stack-exchange fa icon'></i>http://stackoverflow.com/nacyot][profile_stack]
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
+* [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/ext][profile_speakerdeck]
 * [<i class='fa-external-link-square fa icon'></i>codewar.com/nacyot][profile_codewar]
 * [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo]
 
+[profile_linkedin]: https://www.linkedin.com/in/nacyot
 [profile_docker]: https://hub.docker.com/u/nacyot/
 [profile_blog]: http://blog.nacyot.com
 [profile_wiki]: http://wiki.nacyot.com
@@ -115,6 +118,9 @@
 <a name="presentations"></a>
 ## Presentations
 
+* [Understanding Ruby Enumerator][presentation_enumerator] (RORLAB #76, 2014-12-09)
+* [Dockerizing newrelic-sysmond][presentation_newrelic] (Docker Casual Talk Seoul #2, 2014-12-03)
+* [Kubernetes 101][presentation_kubernetes] (GDG Devfair 2014, 2014-11-29)
 * [Docker로 보는 서버 운영의 미래][presentation_deview] (Deview 2014, 2014-09-30)
 * [컨테이너에서 호스트 메트릭스 수집하기][presentation_meetup_2] (Docker Seoul 2nd Meetup, 2014-09-27)
 * [Dokcer History & Ecosystem][presentation_meetup_1] (Docker Seoul 1st Meetup, 2014-08-23)
@@ -132,6 +138,9 @@
 * [Self-hosted Ruby Code Metrics Admin Putne][presentation_putne] (Naver D2fest final, 2013-09-21)
 * [Ruby for biginner - Don't be suprised][presentation_ruby] (Dev.Study 2013-08)
 
+[presentation_enumerator]: http://www.slideshare.net/ext/ruby-enumerator
+[presentation_newrelic]: http://www.slideshare.net/ext/docker-casual-talk-2-dockerizing-newrelicsysmond
+[presentation_kubernetes]: http://www.slideshare.net/ext/devfair-kubernetes-101
 [presentation_deview]: https://www.slideshare.net/deview/1a6docker
 [presentation_meetup_2]: http://blog.nacyot.com/presentations/docker_first_meetup/
 [presentation_meetup_1]: http://blog.nacyot.com/presentations/docker_first_meetup/
@@ -150,8 +159,14 @@
 <a name="projects"></a>
 ## Projects
 
+### 2015
+
+* Hubtee
+
 ### 2014
 
+* Lochat
+* Open Idol
 * Lenz (Leevi Inc., [ruby, rails, angularjs, mysql, cassandra, circleci, github, docker], 2014~)
 * [Bitmetrics][site_bitmetrics] (Belaunch Hackathon B Team, [ruby, rails, influxdb, javascript, highchart], 2014-05)
   * [Belaunch Hackathon 2014][compitition_belaunch_2014] Korbit Winner
