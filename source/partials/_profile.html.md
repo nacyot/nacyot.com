@@ -28,7 +28,7 @@
 * [<i class='fa-stack-exchange fa icon'></i>http://stackoverflow.com/nacyot][profile_stack]
 * [<i class='fa-external-link-square fa icon'></i>hub.docker.com/nacyot][profile_docker]
 * [<i class='fa-external-link-square fa icon'></i>slideshare.net/ext][profile_slideshare]
-* [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/ext][profile_speakerdeck]
+* [<i class='fa-external-link-square fa icon'></i>speakerdeck.com/ext][profile_deck]
 * [<i class='fa-external-link-square fa icon'></i>codewar.com/nacyot][profile_codewar]
 * [<i class='fa-external-link-square fa icon'></i>codingdojo.kr/nacyot][profile_dojo]
 
