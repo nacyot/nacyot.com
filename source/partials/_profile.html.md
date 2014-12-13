@@ -43,7 +43,7 @@
 [profile_deck]: https://speakerdeck.com/nacyot
 [profile_stack]: http://stackoverflow.com/users/2689714/nacyot
 [profile_bitbucket]: https://bitbucket.org/nacyot
-[profile_dojo]: http://codingdojo.kr/profile/answer/1624
+[profile_dojo]: http://codingdojang.com/profile/answer/1624
 [profile_codewars]: http://www.codewars.com/users/nacyot
 [profile_algospot]: http://algospot.com/user/profile/7208
 [profile_euler]: https://projecteuler.net/progress=nacyot
