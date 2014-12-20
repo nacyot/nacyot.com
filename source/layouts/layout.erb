@@ -8,10 +8,15 @@
     
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title || "The Middleman" %></title>
-    
+
     <%= stylesheet_link_tag "normalize", "all" %>
     <%= javascript_include_tag  "all" %>
-  </head>
+
+    <meta property="og:title" content="nacyot.com - about nacyot">
+    <meta property="og:url" content="http://nacyot.com">
+    <meta property="og:description" content="프로그래머 nacyot의 웹페이지입니다. 이 페이지에서는 nacyot이 참여한 프로젝트들과 활동에 대해서 소개합니다.">
+    <meta property="og:site_name" content="nacyot.com">    
+ </head>
   
   <body>
     <div class="row">
