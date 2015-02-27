@@ -7,7 +7,7 @@
 * Administrator of [Docker Korea][docker_korea]
 * Co-organizer of [Docker-Seoul][docker_seoul] meetup
 
-[smartstudy]: http://www.smartstudy.com/
+[smartstudy]: http://www.smartstudy.co.kr/
 [leevi]: http://leevi.co.kr
 [docker_seoul]: http://www.meetup.com/Docker-Seoul/
 [docker_korea]: http://forum.docker.co.kr/
