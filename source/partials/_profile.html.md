@@ -1,17 +1,19 @@
 ## <i class='fa-user fa icon'></i>Profile
 
-* nacyot.com/ruby_programmer
+* nacyot.com/programmer
 
 * [SMARTSTUDY][smartstudy] Programmer
 * A memeber of [Remotty][remotty]
-* Administrator of [Docker Korea][docker_korea]
-* Co-organizer of [Docker-Seoul][docker_seoul] meetup
+  * Administrator of [Appcontainer Korea][docker_korea]
+  * Co-organizer of [Docker Seoul][docker_seoul] meetup
+  * Member of [Infovis Korea][infovis_korea]
 
 [smartstudy]: http://www.smartstudy.co.kr/
 [leevi]: http://leevi.co.kr
 [docker_seoul]: http://www.meetup.com/Docker-Seoul/
-[docker_korea]: http://forum.docker.co.kr/
-[remotty]: http://blog.remotty.com/about/
+[infovis_korea]: http://forum.infovis.kr/
+[docker_korea]: http://forum.appcontainer.co.kr/
+[remotty]: http://blog.remotty.com/
 
 <br/>
 
@@ -56,7 +58,7 @@
 <a name="translations"></a>
 ## Translations
 
-* 레일즈 튜토리얼 [#1][t_rails_tutorial_ch1] (work in progress, [github][t_rails_tutorial_g], [Rails Tutorial][t_rails_tutorial_o])
+* [레일즈 튜토리얼 2판 제 1장][t_rails_tutorial_ch1] ([github][t_rails_tutorial_g], [Rails Tutorial][t_rails_tutorial_o])
 * Middleman 공식 문서 (work in progress, [github][t_middleman_g], [Middleman Document][t_middleman_o])
 * [The Twelve Factor App(한국어)][t_twelve] (2014-05, [github][t_twelve_g], [The Twelve Factor App][t_twelve_o])
 * [이맥스 패키지 관리 툴 캐스크(Cask) 공식 문서][t_cask] (2014-04, [github][t_cask_g], [Cask Document][t_cask_o])
@@ -101,7 +103,7 @@
 [t_middleman_o]: http://
 
 <a name="sites"></a>
-## Static Sites
+## Web Sites
 
 * [nacyot의 프로그래밍 이야기][profile_blog] (nacyot, [ruby, middleman, github], 2014~)
 * [nacyot 프로그래밍 위키][profile_wiki] (nacyot, [ruby, middleman, github], 2014~)
@@ -118,6 +120,9 @@
 <a name="presentations"></a>
 ## Presentations
 
+* [Jupyter - IRuby Notebook][presentation_iruby_notebook] [Appendix][presentation_iruby_appendix] (RORLAB #84, 2015-04-14)
+* [Docker 기반 원격 코드 실행기][presentation_remote_docker] (Docker Casual Talk #3, 2015-01-26)
+* [Set up Ruby Project][presentation_setup_ruby_project] (RORLAB #77, 2014-12-23)
 * [Understanding Ruby Enumerator][presentation_enumerator] (RORLAB #76, 2014-12-09)
 * [Dockerizing newrelic-sysmond][presentation_newrelic] (Docker Casual Talk Seoul #2, 2014-12-03)
 * [Kubernetes 101][presentation_kubernetes] (GDG Devfair 2014, 2014-11-29)
@@ -138,6 +143,10 @@
 * [Self-hosted Ruby Code Metrics Admin Putne][presentation_putne] (Naver D2fest final, 2013-09-21)
 * [Ruby for biginner - Don't be suprised][presentation_ruby] (Dev.Study 2013-08)
 
+[presentation_remote_docker]: https://speakerdeck.com/nacyot/docker-giban-weongyeog-kodeu-silhaenggi
+[presentation_setup_ruby_project]: https://speakerdeck.com/nacyot/set-up-ruby-project
+[presentation_iruby_notebook]: http://blog.nacyot.com/presentations/rorlab_jupyter
+[presentation_iruby_appendix]: http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/
 [presentation_enumerator]: http://www.slideshare.net/ext/ruby-enumerator
 [presentation_newrelic]: http://www.slideshare.net/ext/docker-casual-talk-2-dockerizing-newrelicsysmond
 [presentation_kubernetes]: http://www.slideshare.net/ext/devfair-kubernetes-101
@@ -160,8 +169,6 @@
 ## Projects
 
 ### 2015
-
-* Hubtee
 
 ### 2014
 
